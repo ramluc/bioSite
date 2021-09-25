@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
     <!-- made by Lucas Ramsey -->
 <head>
